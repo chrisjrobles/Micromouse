@@ -18,7 +18,7 @@ smaller circuits was for organization. It is much easier to understand what a
 schematic does and to diagnose issues if you have less clutter.
 
 #### Power Supply
-![alt text](https://github.com/chrisjrobles/Micromouse/master/images/power_supply.png)
+![alt text](https://github.com/chrisjrobles/Micromouse/blob/master/images/power_supply.png)
 
 #### LEDs
 ![alt text](https://github.com/chrisjrobles/Micromouse/master/images/leds.png)
