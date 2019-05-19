@@ -18,22 +18,31 @@ smaller circuits was for organization. It is much easier to understand what a
 schematic does and to diagnose issues if you have less clutter.
 
 #### Power Supply
+![alt text](https://github.com/chrisjrobles/Micromouse/master/images/power_supply.png)
 
 #### LEDs
+![alt text](https://github.com/chrisjrobles/Micromouse/master/images/leds.png)
 
 #### Buttons
+![alt text](https://github.com/chrisjrobles/Micromouse/master/images/buttons.png)
 
 #### Emitters
+![alt text](https://github.com/chrisjrobles/Micromouse/master/images/emitters.png)
 
 #### Receivers
+![alt text](https://github.com/chrisjrobles/Micromouse/master/images/receivers.png)
 
 #### Voltmeter
+![alt text](https://github.com/chrisjrobles/Micromouse/master/images/voltmeter.png)
 
 #### Motor Control
+![alt text](https://github.com/chrisjrobles/Micromouse/master/images/motor_control.png)
 
 #### Communication
+![alt text](https://github.com/chrisjrobles/Micromouse/master/images/communication.png)
 
 #### Microcontroller
+![alt text](https://github.com/chrisjrobles/Micromouse/master/images/microcontroller.png)
 
 
 ## Code
